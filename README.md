@@ -4,5 +4,5 @@ Please note this is a Work in progress
 https://cornerstoneappsolutions.com/
 
 # Youtube: 
-https://www.youtube.com/@CornerStoneAppSolutions
+https://www.youtube.com/@CornerStoneAppSolutions/playlists
 
